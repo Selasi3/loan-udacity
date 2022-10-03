@@ -16,6 +16,9 @@ The main aim of the project is to find which features are best for predicting th
 - The loan amount increases with better rating. The borrower APR decreases with better rating. The relationship between borrower APR and loan amount turns from negative to slightly positive when the Prosper ratings are increased from HR to A or better
 
 
+### Key Insights
+- THe loan amount, Term and the Prosper ratings are the major features to predict borrowe APR for loans.
+
 ```python
 
 ```
